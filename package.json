@@ -1,6 +1,7 @@
 {
     "name": "@tolkam/lib-service-locator",
     "description": "Basic service locator",
+    "version": "0.0.0",
     "main": "src/index.ts",
     "license": "UNLICENSED"
 }
